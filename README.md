@@ -2,7 +2,7 @@
 
 # Hi, I'm Zealish 👋
 
-### Software engineer building backend systems, desktop apps, and mobile products.
+### Odoo Developer building ERP customizations, integrations, and modern software systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zealish-181717?style=for-the-badge&logo=github)](https://github.com/zealish)
 
@@ -10,7 +10,7 @@
 
 ## About me
 
-I build practical software across backend, desktop, mobile, and web. My public projects range from multi-provider AI infrastructure and messaging clients to offline-first Android applications and data-driven web tools.
+I build practical software across backend, desktop, mobile, and web. My public projects range from multi-provider AI infrastructure and messaging clients to offline-first Android applications, while my professional work includes private Odoo ERP customizations and integrations.
 
 ## Skills & technologies
 
@@ -20,14 +20,21 @@ I build practical software across backend, desktop, mobile, and web. My public p
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=flat-square&logo=xml&logoColor=white)
 
-### Backend & infrastructure
+### Professional work
 
-Go APIs · HTTP gateways · provider routing and fallback chains · SSE streaming · gRPC/Unix-socket IPC · SQLite · API-key authentication · Prometheus metrics · Docker
+My Odoo work is maintained in private repositories and includes custom `zl_*` modules, ERP workflows, model extensions, XML views, PostgreSQL-backed business logic, and integrations.
+
+### ERP & backend
+
+Odoo module development · Python · XML views · ORM · PostgreSQL · business workflow customization · API integrations · Go APIs · HTTP gateways · provider routing and fallback chains · SSE streaming · gRPC/Unix-socket IPC · SQLite · API-key authentication · Prometheus metrics · Docker
 
 ### Applications & frontend
 
 GTK4/Libadwaita · WebKitGTK · WhatsApp integrations · Kotlin Android · Jetpack Compose · Room · WorkManager · Next.js · React · Tailwind CSS · Prisma
+
 
 ## Featured projects
 
@@ -41,8 +48,10 @@ GTK4/Libadwaita · WebKitGTK · WhatsApp integrations · Kotlin Android · Jetpa
 | [iptv-player](https://github.com/zealish/iptv-player) | A TypeScript/Next.js IPTV web application with playlist and video-player functionality. |
 | [clashofclan-war-analyzer](https://github.com/zealish/clashofclan-war-analyzer) | A TypeScript/Next.js war leaderboard and analysis tool backed by Prisma. |
 
+
 ## Current focus
 
+- Developing and maintaining custom Odoo modules and ERP workflows
 - Designing reliable Go services and protocol-compatible APIs
 - Building native desktop experiences on Linux
 - Developing offline-first Android applications
