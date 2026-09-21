@@ -25,7 +25,7 @@ I build practical software across backend, desktop, mobile, and web. My public p
 
 ### Professional work
 
-My Odoo work is maintained in private repositories and includes custom `zl_*` modules, ERP workflows, model extensions, XML views, PostgreSQL-backed business logic, and integrations.
+My Odoo work is maintained in private repositories and includes custom modules, ERP workflows, model extensions, XML views, PostgreSQL-backed business logic, and integrations.
 
 ### ERP & backend
 
